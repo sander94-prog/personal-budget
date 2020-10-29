@@ -1,0 +1,32 @@
+
+    [
+        {
+            "title":"Rent",
+            "budget":500
+        },
+        {
+            "title":"Bills",
+            "budget":150 
+        },
+        {
+            "title":"Gas",
+            "budget":40 
+        },
+        {
+            "title":"Entertainment",
+            "budget":15 
+        },
+        {
+            "title":"Shopping",
+            "budget":100 
+        },
+        {
+            "title":"Groceries",
+            "budget":200 
+        },
+        {
+            "title":"Restaurant",
+            "budget":30 
+        }
+    ]
+
